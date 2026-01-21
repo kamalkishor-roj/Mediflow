@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Data files (keep local)
+Data/
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
